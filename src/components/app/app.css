@@ -1,0 +1,16 @@
+.btn {
+    height: 50px;
+    width: 100px;
+    background: -moz-linear-gradient(#1f12cf, #4bd6d6);
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#3210ac), to(#14dbdb));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    padding: 3px 7px;
+    color: rgb(0, 0, 0);
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #666;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+
